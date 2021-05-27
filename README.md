@@ -31,3 +31,6 @@ $ cd sherlock
 # install the requirements
 $ pip install colorama
 ```
+https://www.buymeacoffee.com/PsychoCoder
+
+https://paypal.me/thegammerssimulant?locale.x=en_US
