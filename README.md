@@ -21,5 +21,6 @@ D3pl0y3r is a tool that can be used to instantly make PHP, PYTHON, PS, EXE, LINU
   All that you need to install is the following
   
 ``console
+
 $ pip install colorama
 ```
