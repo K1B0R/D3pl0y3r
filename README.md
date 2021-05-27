@@ -18,9 +18,6 @@ D3pl0y3r is a tool that can be used to instantly make PHP, PYTHON, PS, EXE, LINU
 
 ## HOW TO INSTALL
 
-  All that you need to install is the following
-  
-
 ```console
 # clone the repo
 $ git clone https://github.com/MalwareMix/D3pl0y3r.git
@@ -31,6 +28,14 @@ $ cd sherlock
 # install the requirements
 $ pip install colorama
 ```
+
+## USAGE
+
+```console
+# Run The Program
+$ python3 D3pl0y3r.py
+```
+
 https://www.buymeacoffee.com/PsychoCoder
 
 https://paypal.me/thegammerssimulant?locale.x=en_US
