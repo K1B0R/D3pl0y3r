@@ -23,7 +23,3 @@ D3pl0y3r is a tool that can be used to instantly make PHP, PYTHON, PS, EXE, LINU
 ``console
 $ pip install colorama
 ```
- 
-  https://www.buymeacoffee.com/PsychoCoder
-
-  https://paypal.me/thegammerssimulant?locale.x=en_US
