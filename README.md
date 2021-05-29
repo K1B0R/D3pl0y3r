@@ -23,7 +23,7 @@ D3pl0y3r is a tool that can be used to instantly make PHP, PYTHON, PS, EXE, LINU
 $ git clone https://github.com/MalwareMix/D3pl0y3r.git
 
 # change the working directory to D3pl0y3r
-$ cd sherlock
+$ cd D3pl0y3r
 
 # install the requirements
 $ pip install colorama
